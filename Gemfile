@@ -1,4 +1,4 @@
-source "https://rubygems.org"
+source 'https://rubygems.org'
 
-gem "fluentd"
-gem "randexp"
+# Specify your gem's dependencies in fluent-plugin-regexpload.gemspec
+gemspec
